@@ -1,0 +1,14 @@
+C:\Users\Samuel\Documents\GitHub\Reversi\Reversi\Reversi\bin\x86\Debug\Reversi.exe
+C:\Users\Samuel\Documents\GitHub\Reversi\Reversi\Reversi\bin\x86\Debug\Reversi.pdb
+C:\Users\Samuel\Documents\GitHub\Reversi\Reversi\Reversi\obj\x86\Debug\Reversi.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Documents\GitHub\Reversi\Reversi\Reversi\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Samuel\Documents\GitHub\Reversi\Reversi\Reversi\obj\x86\Debug\Reversi.exe
+C:\Users\Samuel\Documents\GitHub\Reversi\Reversi\Reversi\obj\x86\Debug\Reversi.pdb
+C:\Users\Samuel\Documents\GitHub\Reversi\Reversi\Reversi\bin\x86\Debug\Content\Fonts\GeneralText.xnb
+C:\Users\Samuel\Documents\GitHub\Reversi\Reversi\Reversi\bin\x86\Debug\Content\Fonts\TitleFont.xnb
+C:\Users\Samuel\Documents\GitHub\Reversi\Reversi\Reversi\bin\x86\Debug\Content\Graphics\SKS.xnb
+C:\Users\Samuel\Documents\GitHub\Reversi\Reversi\Reversi\bin\x86\Debug\Content\Sound\NightAssault.xnb
+C:\Users\Samuel\Documents\GitHub\Reversi\Reversi\Reversi\bin\x86\Debug\Content\Shaders\BloomCombine.xnb
+C:\Users\Samuel\Documents\GitHub\Reversi\Reversi\Reversi\bin\x86\Debug\Content\Shaders\BloomExtract.xnb
+C:\Users\Samuel\Documents\GitHub\Reversi\Reversi\Reversi\bin\x86\Debug\Content\Shaders\GaussianBlur.xnb
+C:\Users\Samuel\Documents\GitHub\Reversi\Reversi\Reversi\bin\x86\Debug\Content\Sound\ReversiProgress2.xnb

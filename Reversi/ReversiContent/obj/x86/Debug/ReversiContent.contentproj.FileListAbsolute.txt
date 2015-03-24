@@ -1,0 +1,1 @@
+C:\Users\Samuel\Documents\GitHub\Reversi\Reversi\ReversiContent\obj\x86\Debug\ReversiContent.contentprojResolveAssemblyReference.cache
